@@ -1,6 +1,6 @@
 # betterRun.nvim
 
-![betterRun.nvim](./.github/betterRun.mp4
+https://github.com/user-attachments/assets/425909af-e7f6-4bcf-9309-091259eb5e69
 
 A Neovim plugin that simplifies running code for multiple programming languages directly from your editor.
 
